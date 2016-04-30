@@ -127,7 +127,7 @@ namespace MetroFramework
         {
             get
             {
-                return Color.FromArgb(209, 17, 65);
+                return Color.FromArgb(189, 31, 45);  // Bobber red
             }
         }
 
